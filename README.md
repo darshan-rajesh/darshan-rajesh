@@ -2,6 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=48&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=1200&lines=DARSHAN+RAJESH;AI+SYSTEMS+ENGINEER;GENAI+%7C+LLM+%7C+INTELLIGENT+SYSTEMS;REAL-TIME+ARCHITECTURES" />
 </h1>
 
+<p align="center">
+AI Systems Engineer focused on building scalable LLM-powered architectures, real-time data pipelines, and production-ready backend systems.  
+Specializing in Generative AI integration, cloud-native development, and intelligent system design.
+</p>
+
 
 
 ---
