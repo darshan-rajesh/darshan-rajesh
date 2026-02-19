@@ -5,6 +5,18 @@
 <br>
 
 
+---
+
+
+## DEVELOPMENT METRICS
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshan-rajesh&theme=github_dark" />
+</p>
+
+
+
+
 <p align="center">
 Designing scalable AI systems powered by large language models, real-time data pipelines, and production-grade backend architectures.
 </p>
