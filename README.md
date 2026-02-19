@@ -41,6 +41,15 @@ Designing scalable AI systems powered by large language models, real-time data p
 
 ---
 
+## ACTIVITY
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/darshan-rajesh/darshan-rajesh/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+---
+
 ## ⚙️ TECH STACK
 
 ### Artificial Intelligence
